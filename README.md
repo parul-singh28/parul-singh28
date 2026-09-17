@@ -1,32 +1,19 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-<a href="https://github.com/parul-singh28">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there,+I'm+Parul+Singh+👋;Frontend+%26+Full-Stack+Developer;React+%26+Next.js+Specialist;Building+Impactful+Web+%26+AI+Apps" alt="Typing Header" />
-</a>
+# Hi there, I'm Parul Singh 👋
+### Frontend & Full-Stack Developer
 
-<p align="center">
-  <strong>Turning ideas into performant web applications, healthcare tools & AI solutions</strong>
-</p>
+**Turning ideas into performant web applications, healthcare tools & AI solutions**
 
-<!-- Real Social & Contact Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/parul-singh-a5a167346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:p4551641@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://parul-singh28.github.io/PORTFOLIO/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/parul-singh28?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repos" />
-  </a>
-</p>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parul-singh-a5a167346)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p4551641@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://parul-singh28.github.io/PORTFOLIO/)
+&nbsp;
+[![GitHub Repos](https://img.shields.io/badge/GitHub_Repos-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parul-singh28?tab=repositories)
 
 </div>
 
@@ -48,19 +35,19 @@
 
 <div align="center">
 
-#### **Languages & Core Web**
+#### Languages & Core Web
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,python" alt="Languages" />
 </p>
 
-#### **Frameworks & Libraries**
+#### Frameworks & Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" alt="Frameworks" />
 </p>
 
-#### **Backend, APIs & Workflow**
+#### Backend, APIs & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postman,git,github,vscode,vercel" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman,git,github,vscode,vercel" alt="Backend and Tools" />
 </p>
 
 </div>
@@ -79,27 +66,15 @@
 
 ---
 
-### 📊 GitHub Activity & Insights
+### ⚡ Engineering Focus & Architecture
 
-<div align="center">
-
-<table border="0">
- <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=parul-singh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" width="100%" alt="Parul's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parul-singh28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8" width="100%" alt="Top Languages" />
-    </td>
- </tr>
- <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=parul-singh28&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="80%" alt="GitHub Streak" />
-    </td>
- </tr>
-</table>
-
-</div>
+| Area | Technologies & Tools | Current Status |
+| :--- | :--- | :--- |
+| **Healthcare PWA** | Next.js, TypeScript, Service Workers, Tailwind CSS | 🟢 Active Development (`Medimap`) |
+| **AI Web Applications** | Google Gemini API, React, Next.js, REST APIs | 🟢 Built & Integrated (`Vibecheck`) |
+| **Responsive Web Apps** | JavaScript (ES6+), OpenWeatherMap API, CSS3 | 🟢 Deployed (`weather-check`) |
+| **UI/UX & Portfolio** | Semantic HTML5, Modern CSS, Performance Optimization | 🟢 Live (`PORTFOLIO`) |
+| **Data Analytics** | Python, Jupyter Notebooks, Financial Data Analysis | 🟡 Active Exploration (`bluestock-mf-analytics`) |
 
 ---
 
@@ -118,6 +93,10 @@
   &nbsp;
   <a href="https://parul-singh28.github.io/PORTFOLIO/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/parul-singh28?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
